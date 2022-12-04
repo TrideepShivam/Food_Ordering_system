@@ -3,7 +3,7 @@
 #include<string>//..
 #include<conio.h>//..
 #include<iomanip>
-#include<stdio.h>//..
+#include<stdio.h>
 using namespace std;
 
 class Process{ //Process class to use in entire program from creating it's object.
